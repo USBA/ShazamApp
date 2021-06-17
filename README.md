@@ -1,6 +1,8 @@
 # ShazamApp
 Simple SwiftUI app to detect music using ShazamKit on iOS 15
 
+<br>
+
 **Requirements**
 * Xcode 13
 * iOS 15
